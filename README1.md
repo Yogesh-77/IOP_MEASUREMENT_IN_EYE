@@ -1,7 +1,12 @@
+<img width="1090" height="729" alt="fig14-corneal-vibration-waveforms" src="https://github.com/user-attachments/assets/04b36e42-f178-4687-bf83-03cd490f2b7c" />
+<img width="1089" height="917" alt="fig16-blynk-diagnosis-serial" src="https://github.com/user-attachments/assets/1449d266-7399-48e4-8a3a-e58727538fe2" />
 <div align="center">
 
 # 👁️ Non-Contact Intraocular Pressure (IOP) Measurement System
-### *Acoustic Excitation + Infrared Sensing — A Glaucoma-Screening Device Built on an ESP32*
+### *Acoustic Excitation + Infrared Sensing — A Gl<img width="1008" height="488" alt="fig1-working-principle" src="https://github.com/user-attachments/assets/8f894680-a75c-41ab-a8a4-ba67a60e8b3a" />
+<img width="1022" height="762" alt="fig8-hardware-speaker" src="https://github.com/user-attachments/assets/d2221a39-4fa3-40ca-85c6-3ba9b7bde8f5" />
+<img width="769" height="1185" alt="fig10-hardware-final-assembly" src="https://github.com/user-attachments/assets/079405c1-6083-4f88-baee-f09978731e1a" />
+aucoma-Screening Device Built on an ESP32*
 
 **No corneal contact · No anesthesia · No air-puff · Just sound, light, and an embedded classifier**
 
