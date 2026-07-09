@@ -1,6 +1,4 @@
-<img width="1090" height="729" alt="fig14-corneal-vibration-waveforms" src="https://github.com/user-attachments/assets/04b36e42-f178-4687-bf83-03cd490f2b7c" />
-<img width="1089" height="917" alt="fig16-blynk-diagnosis-serial" src="https://github.com/user-attachments/assets/1449d266-7399-48e4-8a3a-e58727538fe2" />
-<div align="center">
+
 
 # 👁️ Non-Contact Intraocular Pressure (IOP) Measurement System
 ### *Acoustic Excitation + Infrared Sensing — A Gl<img width="1008" height="488" alt="fig1-working-principle" src="https://github.com/user-attachments/assets/8f894680-a75c-41ab-a8a4-ba67a60e8b3a" />
@@ -358,7 +356,9 @@ Selected background this work builds on (see the full paper for the complete lis
 - Weinreb et al., *"The pathophysiology and treatment of glaucoma: a review,"* JAMA, 2014.
 
 ---
-
+<img width="1090" height="729" alt="fig14-corneal-vibration-waveforms" src="https://github.com/user-attachments/assets/04b36e42-f178-4687-bf83-03cd490f2b7c" />
+<img width="1089" height="917" alt="fig16-blynk-diagnosis-serial" src="https://github.com/user-attachments/assets/1449d266-7399-48e4-8a3a-e58727538fe2" />
+<div align="center">
 ## 📄 License
 
 Add your preferred license (MIT is a common permissive choice for hardware + firmware projects like this). See `LICENSE` once added.
